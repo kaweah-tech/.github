@@ -1,4 +1,4 @@
-![Logo_Background_Lite](https://github.com/kaweah-tech/.github/assets/2280384/7073a8da-3987-4d89-ba04-d36369253021)
+![Kaweah Tech](https://github.com/kaweah-tech/.github/assets/2280384/097228a8-ea5e-4c51-8ac0-dc84e359255a)
 ## Software Development Expertise
 
 ### _Kaweah Tech empowers businesses and innovators in the Central Valley by delivering expertly designed and developed websites, mobile apps, and software._
@@ -16,3 +16,4 @@ Engineering and project management expertise earned over 16 years working with c
 ### Expand your technological capabilities by partnering with local expertise that you can depend on.
 
 #### [ℹ️ More about Kaweah Tech](https://kaweahtech.com)
+
