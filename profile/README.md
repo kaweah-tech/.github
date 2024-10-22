@@ -15,5 +15,5 @@ Engineering and project management expertise earned over 16 years working with c
 ---
 ### Expand your technological capabilities by partnering with local expertise that you can depend on.
 
-#### [ℹ️ More about Kaweah Tech](https://kaweahtech.com)
+#### [ℹ️ More about Kaweah Tech](https://kaweah.tech)
 
